@@ -15,7 +15,7 @@
   - ✅ **CRM Systems**
   - 🚕 **Ride Sharing**
   - 🛒 **E-commerce & Delivery**
-  - 🧰 **Service Providers** (e.g. Builders, Pet Services, Dog Selling)
+  - 🧰 **Service Providers** (e.g. Builders, Pet Services etc)
   - 🧠 **AI Chatbots**
 - 💸 Integrated:
   - 🧾 **In-App Purchases**
