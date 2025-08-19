@@ -88,8 +88,10 @@ For a **detailed breakdown of my projects, case studies, and work experience**, 
 <p align="left">
   <a href="mailto:fouzanhasan.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/fouzanhasan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://your-portfolio-link.com](https://www.notion.so/Fouzan-Hasan-Portfolio-2543f213f7a8804daf53e367cebcd7e8?source=copy_link)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.notion.so/Fouzan-Hasan-Portfolio-2543f213f7a8804daf53e367cebcd7e8" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@simplecoding4552" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
 
 ---
 
