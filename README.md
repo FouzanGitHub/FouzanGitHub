@@ -26,6 +26,11 @@
   - 💱 **Currency + Language Conversion**
 - 📦 Experienced with **Flutter Web, Firebase, REST APIs, and State Management**
 
+--- 
+### 📂 Full Portfolio
+
+For a **detailed breakdown of my projects, case studies, and work experience**, visit my complete portfolio here:  
+👉 [Fouzan Hasan – Portfolio](https://www.notion.so/Fouzan-Hasan-Portfolio-2543f213f7a8804daf53e367cebcd7e8)
 ---
 
 ### 🛠️ Tech Stack
